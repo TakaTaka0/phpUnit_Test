@@ -1,6 +1,6 @@
 <?php 
 //test PHPUnit
-
+//Run phpunit filename
 class MyTestCase extends PHPUnit_Framework_TestCase {
     public function test_test1() {
         echo "test1\n";
